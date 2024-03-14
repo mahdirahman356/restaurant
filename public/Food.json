@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/LtCykfT/pexels-engin-akyurt-1487511.jpg",
+      "food_name": "Pasta Carbonara",
+      "description": "Spaghetti with creamy sauce, bacon, and parmesan cheese.",
+      "food_price": "12.99",
+      "buy_button": "Add to Cart"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/hRvzswm/pexels-narda-yescas-1566837.jpg",
+      "food_name": "Margherita Pizza",
+      "description": "Traditional Italian pizza topped with fresh tomatoes, mozzarella, and basil leaves.",
+      "food_price": "10.99",
+      "buy_button": "Add to Cart"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/Pj3V3WH/pexels-jonathan-borba-2983101.jpg",
+      "food_name": "Beef Burger",
+      "description": "Juicy beef patty topped with lettuce, tomato, onion, and cheddar cheese.",
+      "food_price": "9.99",
+      "buy_button": "Add to Cart"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/YprWQnD/pexels-valeria-boltneva-1639557.jpg",
+      "food_name": "Chicken Burger",
+      "description": "Grilled chicken patty served with lettuce, tomato, onion, and mayo in a bun.",
+      "food_price": "8.99",
+      "buy_button": "Add to Cart"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/sgB1rsd/pexels-shameel-mukkath-14731729.jpg",
+      "food_name": "Chicken Biryani",
+      "description": "Aromatic basmati rice cooked with tender chicken pieces and fragrant spices.",
+      "food_price": "11.99",
+      "buy_button": "Add to Cart"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/fN4HtNJ/closeup-shot-pasta-with-vegetables-ingredients-white-table.jpg",
+      "food_name": "Chow Mein",
+      "description": "Stir-fried noodles with vegetables and your choice of protein.",
+      "food_price": "7.99",
+      "buy_button": "Add to Cart"
+    }
+  ]
+  
